@@ -3,7 +3,7 @@ import './App.css'
 import { useDispatch, useSelector } from 'react-redux';
 import { getApiConfiguration, getGenres } from './store/homeSlice';
 import { fetchDataFromApi } from './utils/api';
-import Header from './components/header/header';
+import Header from './components/header/Header';
 import Footer from './components/footer/Footer';
 import PageNotFound from './pages/404/PageNotFound';
 import Details from './pages/details/Details';
