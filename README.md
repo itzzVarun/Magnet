@@ -4,4 +4,4 @@ This application helps to Search a Movie, Trending Movies or Shows, Details of a
 
 You can try the application from this link
 
-[Magnet](https://itzzvarun.github.io/Food-Recipe/)
+[Magnet](https://magnet-movie.netlify.app/)
